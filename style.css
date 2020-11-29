@@ -110,8 +110,21 @@
 }
 
 .testimonial figure img{
+    width: 60px;
+    margin: 20px 10px 7px;
+    opacity: 0.7;
+}
+
+.testimonial figure img.utama{
     width: 90px;
-    margin-top: 20px;
+    opacity: 1;
+    margin-top: 5px;
+}
+
+.footer p{
+    color: #ACACAC;
+    font-size: 18px;
+    margin-top: 100px;
 }
 
 .testimonial figure h5{
